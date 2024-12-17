@@ -1,3 +1,3 @@
-src source code
+src : source code
 
-doc 程式碼說明
+doc : 程式碼說明
